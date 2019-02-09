@@ -1,0 +1,38 @@
+{
+  "name": "IDGretongers - Blog Sharing Gratisan",
+  "short_name": "IDGretongers",
+  "start_url": "https://www.idgretongers.net",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#862af7",
+  "description": "IDGretongers atau Gretongers Indonesia merupakan blog yang berbagi tentang hal-hal gratisan, mulai dari info, tutorial, APK MOD dan template blog.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-A88L4Hspq-g/XF8DfN6qi_I/AAAAAAAAD3I/KRtcTHLV59cYi7orwBoyhYMYRo1tsMA8wCLcBGAs/s1600/idg.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
